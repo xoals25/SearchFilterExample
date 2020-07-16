@@ -30,8 +30,8 @@ public class MainActivity extends AppCompatActivity  implements TextWatcher {
        입력되는 텍스트에 변화가 있을때마다 리스터 이벤트가 작동한다.
        */
         editText.addTextChangedListener(this);
-        items.add("김씨");
-        items.add("이씨");
+        items.add("김씨수정");
+        items.add("이씨수정");
         items.add("정씨");
         items.add("박씨");
         items.add("오씨");
