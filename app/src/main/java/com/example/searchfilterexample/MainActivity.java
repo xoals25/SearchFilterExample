@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity  implements TextWatcher {
 
     ArrayList<String> items = new ArrayList<>();
 
+    //수정하기
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
